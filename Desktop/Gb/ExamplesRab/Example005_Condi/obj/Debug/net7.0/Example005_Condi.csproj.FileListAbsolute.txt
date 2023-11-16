@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\bin\Debug\net7.0\Example005_Condi.exe
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\bin\Debug\net7.0\Example005_Condi.deps.json
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\bin\Debug\net7.0\Example005_Condi.runtimeconfig.json
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\bin\Debug\net7.0\Example005_Condi.dll
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\bin\Debug\net7.0\Example005_Condi.pdb
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.dll
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\refint\Example005_Condi.dll
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.pdb
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\Example005_Condi.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Gb\ExamplesRab\Example005_Condi\obj\Debug\net7.0\ref\Example005_Condi.dll
